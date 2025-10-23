@@ -3,3 +3,4 @@ Instructor:  Kumar Thummapudi  kumar.thummapudi@utsa.edu
 ----------------------------------------------------------
 Team The Cooler The Group
 	Carlos Corral: carlos.corral@my.utsa.edu
+	Maryna Korolova: maryna.korolova@my.utsa.edu
